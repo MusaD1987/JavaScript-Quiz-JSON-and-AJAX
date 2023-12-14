@@ -1,0 +1,44 @@
+[
+    {
+        "question": "How many states are in the United States of America?",
+        "answers": [
+            {"text": "20", "correct": false},
+            {"text": "44", "correct": false},
+            {"text": "51", "correct": false},
+            {"text": "50", "correct": true}
+        ]
+    },
+
+    {
+        "question": "What is the captial of New York?",
+        "answers": [
+            {"text": "Manhattan", "correct": false},
+            {"text": "Albany", "correct": true},
+            {"text": "Syracuse", "correct": false},
+            {"text": "Monticello", "correct": false}
+        ]
+    },
+
+    {
+        "question": "What State in the United States of America has the largest population?",
+        "answers": [
+            {"text": "California", "correct": true},
+            {"text": "Texas", "correct": false},
+            {"text": "Washington", "correct": false},
+            {"text": "New York", "correct": false}
+        ]
+    },
+
+    {
+        "question": "What State is the Statue of Liberty Located?",
+        "answers": [
+            {"text": "Georgia", "correct": false},
+            {"text": "Texas", "correct": false},
+            {"text": "Rhode Island", "correct": false},
+            {"text": "New York", "correct": true}
+        ]
+    }
+    
+]
+
+    
